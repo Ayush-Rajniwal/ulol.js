@@ -65,7 +65,7 @@ list.listLength();  //return length of list
       <h1>Ulol Example</h1>
 
         <div id='exp'></div>
-        <script src="https://raw.githubusercontent.com/Ayush-Rajniwal/ulol.js/master/src/ulol_mini.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/Ayush-Rajniwal/ulol.js/src/ulol_mini.js"></script>
         <script src="app.js"></script>
       
     </body>
