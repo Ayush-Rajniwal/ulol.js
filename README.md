@@ -88,6 +88,9 @@ list.remove(5);
 ```
 ![](https://github.com/Ayush-Rajniwal/ulol.js/blob/master/img/screen3.png)
 
+### Live Preview
+[codepen](https://codepen.io/Ayush-Rajniwal/pen/EqWOgV)
+
 ## Versioning
 * Version 0.1.0 - Update List, Remove Element from List, list_length functions are added.
 
