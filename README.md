@@ -3,8 +3,7 @@ A small JavaScript Library to work easily with HTML List
 
 ## Description
 
-**Ulol** or(unordered list and ordered list) is library that let you to dynamically add list into your webpages.
-You can easily add,delete,update item in the list directly using javascript code.
+**Ulol** (unordered list and ordered list) is a library that lets you to dynamically add the list into your webpages. You can easily add, delete, update an item in the list directly using javascript code.
 
 ## Linking ulol.js -- CDN
 
